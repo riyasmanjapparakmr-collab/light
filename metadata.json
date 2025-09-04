@@ -1,0 +1,5 @@
+{
+  "name": "Quranic Verb Meaning Finder (Malayalam)",
+  "description": "An interface to find the Malayalam meaning, root letters, and contextual Quranic verses for any given Arabic verb.",
+  "requestFramePermissions": []
+}
